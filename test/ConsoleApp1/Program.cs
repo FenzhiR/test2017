@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
            var person = "Fenzhi";
 
-            Console.WriteLine($"Hello {person}");
+            Console.WriteLine($"Hello {person} from FE1");
         }
     }
 }
